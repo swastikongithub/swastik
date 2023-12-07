@@ -1,1 +1,1 @@
-# swastik
+print("hello,world!")
